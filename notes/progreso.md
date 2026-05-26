@@ -3,7 +3,7 @@
 ## Kaggle Courses
 - [] Intro to Machine Learning
 - [x] Youre first Machine Learning Model
-- [] Intermediate ML
+- [x] Model Validation
 - [] Puthon
 - Pandas
 
