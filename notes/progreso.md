@@ -5,7 +5,7 @@
 - [x] Youre first Machine Learning Model
 - [x] Model Validation
 - [x] Underfitting and Overfitting
-- Pandas
+- [x] Random Forests
 
 ## Conceptos aprendidos
 -
