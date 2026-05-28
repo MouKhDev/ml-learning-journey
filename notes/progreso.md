@@ -4,7 +4,7 @@
 - [] Intro to Machine Learning
 - [x] Youre first Machine Learning Model
 - [x] Model Validation
-- [] Puthon
+- [x] Underfitting and Overfitting
 - Pandas
 
 ## Conceptos aprendidos
